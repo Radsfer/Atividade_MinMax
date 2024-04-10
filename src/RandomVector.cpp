@@ -196,7 +196,7 @@ void RandomVector::saveDurantions(std::string filepath, int algNumber)
     file<< "----------------------------------------------\n";
     file<< "Para o caso: "<<nameCase<<"\n";
     file<< "Tamanho do vetor: "<< size<<"\n";
-    file<< "Algoritmo: "<< algNumber+1<<"\n";
+    file<< "Algoritmo: "<< algNumber<<"\n";
     file<< "Duração em nano segundos: \n";
     if(nameCase=="Ordenado")
     {

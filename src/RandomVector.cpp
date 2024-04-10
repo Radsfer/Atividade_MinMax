@@ -8,7 +8,10 @@ std::vector<int> RandomVector::GenerateOrderedVector()
     std::vector<int> numeros(size);
     for (int i = 0; i < size; i++)
     {
+       if(size<1000)
+        {
         numeros[i] = i + 1;
+        }
     }
 
     return numeros;

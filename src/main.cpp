@@ -1,7 +1,7 @@
 #include <iostream>
 #include"RandomVector.hpp"
 
-#define SIZE 1000
+#define SIZE 500000
 
 int main ()
 {

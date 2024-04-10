@@ -3,19 +3,838 @@ Para o caso: Desordenado
 Tamanho do vetor: 1000
 Algoritmo: 1
 Duração em nano segundos: 
-0.021026
+0.0193
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Desordenado
 Tamanho do vetor: 1000
 Algoritmo: 2
 Duração em nano segundos: 
-0.020942
+0.019289
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Desordenado
 Tamanho do vetor: 1000
 Algoritmo: 3
 Duração em nano segundos: 
-0.027318
+0.02954
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.02002
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.019179
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.029907
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018926
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.019026
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.029444
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.038771
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.018964
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.029071
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018829
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.018726
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.029341
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018829
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.018654
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.029438
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018573
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.018484
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.02854
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018658
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.01867
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.029307
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018383
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.018338
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.02821
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.018434
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.018472
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.028408
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.084054
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.042104
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.062018
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.038587
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.040336
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.062
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.04595
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.047501
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.070891
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.03863
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.042768
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.061492
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.038622
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.038697
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.062674
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.043273
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.043023
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.065231
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.042817
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.044009
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.064572
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.043266
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.055294
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.063287
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.038547
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.061839
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.060698
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 1
+Duração em nano segundos: 
+0.038889
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 2
+Duração em nano segundos: 
+0.038789
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 10000
+Algoritmo: 3
+Duração em nano segundos: 
+0.060827
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.418825
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.454786
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.627568
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.499401
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.478072
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.605372
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.49097
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.38747
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.613377
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.400117
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.38642
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.608573
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.389937
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.385833
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.606613
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.40987
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.386322
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.607172
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.500534
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.43889
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.671185
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.471612
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.43669
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.648699
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.479838
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.396409
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.606695
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 1
+Duração em nano segundos: 
+0.386536
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 2
+Duração em nano segundos: 
+0.387685
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 100000
+Algoritmo: 3
+Duração em nano segundos: 
+0.654528
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+2.05841
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.97123
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+2.9907
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.91767
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+2.34325
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.03126
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.91821
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.90225
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.10363
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.90987
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.92515
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.04151
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.9576
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.95909
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.08002
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.92459
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.94969
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+2.99407
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.91012
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.91109
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.11682
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.96968
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.95616
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.03997
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+1.99436
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.93626
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.29768
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 1
+Duração em nano segundos: 
+2.09121
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 2
+Duração em nano segundos: 
+1.91045
+----------------------------------------------
+----------------------------------------------
+Para o caso: Desordenado
+Tamanho do vetor: 500000
+Algoritmo: 3
+Duração em nano segundos: 
+3.0595
 ----------------------------------------------

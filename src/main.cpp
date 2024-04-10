@@ -10,7 +10,8 @@ int main ()
 
     RandomVector test1 =RandomVector(SIZE);
     RandomVector test2 =RandomVector(SIZE);
-
+    for(int i=0;i<10;i++)
+    {
     std::vector <int> vec1Ordered= test1.GenerateOrderedVector();
     std::vector<int> vec2Desordered = test2.GenerateDisorderedVector();
     test1.FindMinMax1(vec1Ordered);
@@ -43,6 +44,6 @@ int main ()
     test2.setDisorderedDurantions(test2.getDurations());
     test2.saveDurantions("tempo_Desordenado.txt", 2);
     test2.clearTest();
-
+    }
     return 0;
 }

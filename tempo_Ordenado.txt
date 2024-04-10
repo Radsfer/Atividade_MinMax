@@ -1,0 +1,21 @@
+----------------------------------------------
+Para o caso: Ordenado
+Tamanho do vetor: 1000
+Algoritmo: 1
+Duração em nano segundos: 
+0.029155
+----------------------------------------------
+----------------------------------------------
+Para o caso: Ordenado
+Tamanho do vetor: 1000
+Algoritmo: 2
+Duração em nano segundos: 
+0.020721
+----------------------------------------------
+----------------------------------------------
+Para o caso: Ordenado
+Tamanho do vetor: 1000
+Algoritmo: 3
+Duração em nano segundos: 
+0.019782
+----------------------------------------------

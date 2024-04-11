@@ -8,7 +8,7 @@ std::vector<int> RandomVector::GenerateOrderedVector()
     std::vector<int> numeros(size);
     for (int i = 0; i < size; i++)
     {
-       if(size<1000)
+       if(i<1000)
         {
         numeros[i] = i + 1;
         }
@@ -165,7 +165,7 @@ void RandomVector::setOrderedDurantions(std::vector<float>durations)
 }
 
 void RandomVector::setDisorderedDurantions(std::vector<float>durations)
- {
+{
     int size = durations.size();
     for (int i=0; i<size;i++)
     {
@@ -173,7 +173,32 @@ void RandomVector::setDisorderedDurantions(std::vector<float>durations)
     }
     allDurations.clear();
 }
+void RandomVector::calculateMeanDurantions()
+{
+    
+    if(DurationsForDisordered.size()>0)
+    {
+        float aux;
+        
+            for(int i=0;i<DurationsForDisordered.size();i++)
+            {
+                aux+=DurationsForDisordered[i];
+            }
+        this->mean=aux/10.0;
+    }else if(DurationsForOrdered.size()>0)
+    {
+        float aux;
+            for(int i=0;i<DurationsForOrdered.size();i++)
+            {
+                aux+=DurationsForOrdered[i];
+            }
+        this->mean=aux/10.0;
+    }else
+    {
+        return;
+    }
 
+}
 void RandomVector::saveDurantions(std::string filepath, int algNumber)
 {
     std::ofstream file(filepath, std::ios::app);
@@ -197,6 +222,7 @@ void RandomVector::saveDurantions(std::string filepath, int algNumber)
     file<< "Para o caso: "<<nameCase<<"\n";
     file<< "Tamanho do vetor: "<< size<<"\n";
     file<< "Algoritmo: "<< algNumber<<"\n";
+    file<< "Média: "<< mean <<"\n";
     file<< "Duração em nano segundos: \n";
     if(nameCase=="Ordenado")
     {

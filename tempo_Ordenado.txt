@@ -2,839 +2,203 @@
 Para o caso: Ordenado
 Tamanho do vetor: 1000
 Algoritmo: 1
+Média: 0.0288885
 Duração em nano segundos: 
-0.003769
+0.029019
+0.029099
+0.028941
+0.02891
+0.029444
+0.028754
+0.028756
+0.028726
+0.028731
+0.028891
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 1000
 Algoritmo: 2
+Média: 0.0182838
 Duração em nano segundos: 
-0.018192
+0.029581
+0.030797
+0.030844
+0.005586
+0.018845
+0.024317
+0.026424
+0.005407
+0.005987
+0.005436
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 1000
 Algoritmo: 3
+Média: 0.00629083
 Duração em nano segundos: 
-0.016211
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.01825
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.019021
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.016197
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.017984
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.018015
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.015871
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.017953
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.018053
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.015916
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.018087
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.018037
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.016099
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.017984
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.017996
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.016235
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.018051
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.01801
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.01596
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.017998
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.018042
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.016076
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.018
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.018032
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.016056
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 1
-Duração em nano segundos: 
-0.018032
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 2
-Duração em nano segundos: 
-0.017921
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 1000
-Algoritmo: 3
-Duração em nano segundos: 
-0.016013
+0.006451
+0.006814
+0.006706
+0.006257
+0.006244
+0.006322
+0.006068
+0.006166
+0.006087
+0.006179
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 10000
 Algoritmo: 1
+Média: 0.0591655
 Duração em nano segundos: 
-0.202958
+0.060138
+0.060868
+0.061161
+0.067983
+0.061958
+0.055638
+0.05745
+0.061734
+0.062489
+0.042622
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 10000
 Algoritmo: 2
+Média: 0.0429122
 Duração em nano segundos: 
-0.057519
+0.056505
+0.044776
+0.058152
+0.044902
+0.037543
+0.037581
+0.037505
+0.037535
+0.037501
+0.037508
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 10000
 Algoritmo: 3
+Média: 0.0396803
 Duração em nano segundos: 
-0.039208
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.038411
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.040459
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.035455
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.038396
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.060761
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.046883
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.048224
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.047029
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.054459
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.054298
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.038498
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.033778
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.038421
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.042757
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.039304
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.038426
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.044024
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.039095
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.038399
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.044319
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.036426
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.03849
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.043423
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.036558
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 1
-Duração em nano segundos: 
-0.038472
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 2
-Duração em nano segundos: 
-0.038456
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 10000
-Algoritmo: 3
-Duração em nano segundos: 
-0.033872
+0.050715
+0.043831
+0.054519
+0.04131
+0.03443
+0.034517
+0.03447
+0.034484
+0.034399
+0.034514
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 100000
 Algoritmo: 1
+Média: 0.392436
 Duração em nano segundos: 
-0.414897
+0.38557
+0.388393
+0.383568
+0.381746
+0.382141
+0.439335
+0.416244
+0.382934
+0.381949
+0.382869
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 100000
 Algoritmo: 2
+Média: 0.39397
 Duração em nano segundos: 
-0.442134
+0.467647
+0.375458
+0.380504
+0.375431
+0.413038
+0.425714
+0.375596
+0.375726
+0.375382
+0.375588
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 100000
 Algoritmo: 3
+Média: 0.345808
 Duração em nano segundos: 
-0.431889
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.379047
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.488714
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.352281
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.456314
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.387022
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.353091
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.402185
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.386526
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.339105
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.386511
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.393522
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.3386
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.385654
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.384428
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.340016
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.375875
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.411408
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.410682
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.375439
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.496599
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.39372
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.426737
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.418299
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.396279
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 1
-Duração em nano segundos: 
-0.398726
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 2
-Duração em nano segundos: 
-0.385877
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 100000
-Algoritmo: 3
-Duração em nano segundos: 
-0.462504
+0.425819
+0.337479
+0.385379
+0.329954
+0.329698
+0.330167
+0.329715
+0.330185
+0.330331
+0.329739
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 500000
 Algoritmo: 1
+Média: 1.96242
 Duração em nano segundos: 
-1.88684
+1.91114
+2.03488
+2.01533
+1.9759
+1.9618
+1.89835
+1.95422
+1.91177
+1.96941
+1.9918
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 500000
 Algoritmo: 2
+Média: 1.98625
 Duração em nano segundos: 
-2.07516
+2.14852
+1.90859
+1.96279
+1.90947
+2.02507
+1.90696
+2.21151
+1.87938
+1.97522
+1.9354
 ----------------------------------------------
 ----------------------------------------------
 Para o caso: Ordenado
 Tamanho do vetor: 500000
 Algoritmo: 3
+Média: 1.73359
 Duração em nano segundos: 
-1.7085
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-2.08035
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-2.12584
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.70378
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.89716
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-1.96148
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.63819
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.90867
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-1.99965
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.73146
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.9586
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-1.93533
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.67955
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.91157
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-2.05279
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.68788
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.9609
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-1.94878
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.73443
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.94814
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-2.01033
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.68061
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.91108
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-1.92772
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.76992
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 1
-Duração em nano segundos: 
-1.95232
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 2
-Duração em nano segundos: 
-1.97299
-----------------------------------------------
-----------------------------------------------
-Para o caso: Ordenado
-Tamanho do vetor: 500000
-Algoritmo: 3
-Duração em nano segundos: 
-1.68345
+1.94954
+1.71749
+1.6782
+1.7687
+1.67896
+1.72307
+1.67502
+1.71346
+1.6938
+1.738
 ----------------------------------------------

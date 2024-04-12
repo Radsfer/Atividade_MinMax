@@ -1,4 +1,5 @@
 #include "RandomVector.hpp"
+
 RandomVector::RandomVector(int s)
 {
     this->size = s;
@@ -154,6 +155,22 @@ std::vector<float> RandomVector::getDurations()
     return allDurations;
 }
 
+void RandomVector::saveInMatrix()
+{
+
+    if(DurationsForDisordered.size()>0)
+    {
+      MatrixResult.push_back(DurationsForDisordered);
+          
+    }else if(DurationsForOrdered.size()>0)
+    {
+      MatrixResult.push_back(DurationsForOrdered);
+   }else
+    {
+        return;
+    }
+}
+
 void RandomVector::setOrderedDurantions(std::vector<float>durations)
 {
     int size = durations.size();
@@ -242,6 +259,34 @@ void RandomVector::saveDurantions(std::string filepath, int algNumber)
     }
     file<< "----------------------------------------------\n";
 
+    file.close();
+    chmod(filepath.c_str(), S_IRWXU | S_IRWXG | S_IRWXO);
+
+}
+
+void RandomVector::saveDurantionsMatrix(std::string filepath, int algNumber)
+{
+    std::string name=filepath+std::to_string(algNumber)+".txt";
+     std::ofstream file(name);
+
+    if (!file.is_open())
+    {
+        std::cerr << "Erro ao abrir o arquivo" << std::endl;
+        return;
+    }
+    
+    for(int i=0;i<MatrixResult[0].size();i++)
+    {
+        for (int j=0;j<MatrixResult.size();j++)
+        {
+        file<<MatrixResult[j][i]<<" ";
+        }
+        file<<"\n";
+    }
+    file.close();
+    chmod(filepath.c_str(), S_IRWXU | S_IRWXG | S_IRWXO);
+
+    
 }
 
 void RandomVector::clearTest()
@@ -250,9 +295,14 @@ void RandomVector::clearTest()
     DurationsForOrdered.clear();
     DurationsForDisordered.clear();
 }
+void RandomVector::clearMatrixTest()
+{
+    MatrixResult.clear();
+}
 RandomVector::~RandomVector()
 {
     allDurations.clear();
     DurationsForOrdered.clear();
     DurationsForDisordered.clear();
+    MatrixResult.clear();
 };

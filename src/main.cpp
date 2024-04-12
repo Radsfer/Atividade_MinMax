@@ -21,7 +21,8 @@ int main ()
         test1.setOrderedDurantions(test1.getDurations());
     }
     test1.calculateMeanDurantions();
-    test1.saveDurantions("tempo_Ordenado.txt", 1);
+    test1.saveDurantions("datasets/algOrdenado/tempoAlg1_Ordenado.txt", 1);
+    test1.saveInMatrix();
     test1.clearTest();
 
     for(int i=0;i<10;i++)
@@ -30,7 +31,8 @@ int main ()
     test2.setDisorderedDurantions(test2.getDurations());
     }
     test2.calculateMeanDurantions();
-    test2.saveDurantions("tempo_Desordenado.txt", 1);
+    test2.saveDurantions("datasets/algDesordenado/tempoAlg1_Desordenado.txt", 1);
+    test2.saveInMatrix();
     test2.clearTest(); 
 
     for(int i=0;i<10;i++)
@@ -39,7 +41,8 @@ int main ()
     test1.setOrderedDurantions(test1.getDurations());
     }
     test1.calculateMeanDurantions();
-    test1.saveDurantions("tempo_Ordenado.txt", 2);
+    test1.saveDurantions("datasets/algOrdenado/tempoAlg2_Ordenado.txt", 2);
+    test1.saveInMatrix();
     test1.clearTest();
 
     for(int i=0;i<10;i++)
@@ -48,7 +51,8 @@ int main ()
     test2.setDisorderedDurantions(test2.getDurations());
     }
     test2.calculateMeanDurantions();
-    test2.saveDurantions("tempo_Desordenado.txt", 2);
+    test2.saveDurantions("datasets/algDesordenado/tempoAlg2_Desordenado.txt", 2);
+    test2.saveInMatrix();
     test2.clearTest();
 
 
@@ -58,7 +62,8 @@ int main ()
     test1.setOrderedDurantions(test1.getDurations());
     }
     test1.calculateMeanDurantions();
-    test1.saveDurantions("tempo_Ordenado.txt", 3);
+    test1.saveDurantions("datasets/algOrdenado/tempoAlg3_Ordenado.txt", 3);
+    test1.saveInMatrix();
     test1.clearTest();
 
     for(int i=0;i<10;i++)
@@ -67,8 +72,14 @@ int main ()
     test2.setDisorderedDurantions(test2.getDurations());
     }
     test2.calculateMeanDurantions();
-    test2.saveDurantions("tempo_Desordenado.txt", 3);
+    test2.saveDurantions("datasets/algDesordenado/tempoAlg3_Desordenado.txt", 3);
+    test2.saveInMatrix();
     test2.clearTest();
+    
+    test1.saveDurantionsMatrix("datasets/Matrix_Dados/Ordenado_", tamanhos[n]);
+    test2.saveDurantionsMatrix("datasets/Matrix_Dados/Desordenado_", tamanhos[n]);
+    test1.clearMatrixTest();
+    test2.clearMatrixTest();
     }
     return 0;
 }

@@ -6,13 +6,19 @@ RandomVector::RandomVector(int s)
 }
 std::vector<int> RandomVector::GenerateOrderedVector()
 {
+    int aux=0;
     std::vector<int> numeros(size);
     for (int i = 0; i < size; i++)
     {
-       if(i<1000)
+      
+       if(aux<1000)
         {
-        numeros[i] = i + 1;
+        numeros[i] = aux + 1;
+        }else
+        {
+            aux=0;
         }
+        aux++;
     }
 
     return numeros;
@@ -192,26 +198,29 @@ void RandomVector::setDisorderedDurantions(std::vector<float>durations)
 }
 void RandomVector::calculateMeanDurantions()
 {
-    
-    if(DurationsForDisordered.size()>0)
+     float sizeDisordered=DurationsForDisordered.size();
+     float sizeOrdered=DurationsForOrdered.size();
+
+     float aux=0.0;
+ 
+     if(sizeDisordered>0)
     {
-        float aux;
-        
-            for(int i=0;i<DurationsForDisordered.size();i++)
+
+            for(int i=0;i<sizeDisordered;i++)
             {
                 aux+=DurationsForDisordered[i];
             }
-        this->mean=aux/10.0;
-    }else if(DurationsForOrdered.size()>0)
+        this->mean=aux/sizeDisordered;
+    }else if(sizeOrdered>0)
     {
-        float aux;
-            for(int i=0;i<DurationsForOrdered.size();i++)
+            for(int i=0;i<sizeOrdered;i++)
             {
                 aux+=DurationsForOrdered[i];
             }
-        this->mean=aux/10.0;
+        this->mean=aux/sizeOrdered;
     }else
     {
+        this->mean=0.0;
         return;
     }
 

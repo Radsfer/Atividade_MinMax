@@ -59,4 +59,24 @@ A análise atual ocorreu nos dados presentes no momento da escrita dessa documen
 ![comparsion_alg100000](imgs/algorithms100000_comparison.png)
 #### <a name="#graph4"></a> Gráfico 4 - 500000 entradas.
 ![comparsion_alg500000](imgs/algorithms500000_comparison.png)
+### Tabelas
+#### <a name="#table1"></a> Tabela 1 - Tempo médio dos algoritmos em relação ao tamanho das entradas (Caso Ordenado).
+
+| Tamanho da Entrada | Algoritmo 1 | Algoritmo 2 | Algoritmo 3 |
+|--------------------|-------------|-------------|-------------|
+| 1000               | 0.0053501 ns| 0.0038226 ns| 0.00407 ns  |
+| 10000              | 0.0389838 ns| 0.0375332 ns| 0.0336906 ns|
+| 100000             | 0.382939 ns | 0.421086 ns | 0.332255 ns |
+| 500000             | 2.02462 ns  | 1.97786 ns  | 1.7052 ns   |
+
+#### <a name="#table2"></a> Tabela 2 - Tempo médio dos algoritmos em relação ao tamanho das entradas (Caso Desordenado).
+| Tamanho da Entrada | Algoritmo 1 | Algoritmo 2 | Algoritmo 3 |
+|--------------------|-------------|-------------|-------------|
+| 1000               | 0.0038919 ns| 0.003891 ns | 0.0048792 ns|
+| 10000              | 0.0374691 ns| 0.037573 ns | 0.0574034 ns|
+| 100000             | 0.384225 ns | 0.378353 ns | 0.646361 ns |
+| 500000             | 1.93651 ns  | 1.93615 ns  | 3.03318 ns  |
+
+
+
 ## <a name="#sobre"></a>Sobre

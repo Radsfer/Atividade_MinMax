@@ -48,9 +48,10 @@ make run
 make plotgraph
 ```
 <font size=3.0 ><b>AVISO: Antes de realizar o comando make plotgraph caso deseja guardar as imagens para realizar o teste em diferente momentos faça um backup das últimas imagens geradas pois o GNU Plot sobreescreve as imagens ao gerar o comando com os dados novos, e as matrizes bases desses gráficos são sobreescritas a cada execução do código</b></font>
-## Análise dos dados
+## Resultados e discuções
 A análise atual ocorreu nos dados presentes no momento da escrita dessa documentação, caso faça nova execução do programa os dados podem alterar. Todos os análisados estão presentes no momento estão matidos no ultimo deploy feito para este repositório nas pastas dentro de datasets e na pasta imgs em relação aos gráficos.
 ### Gráficos
+Os gráficos a seguir foram plotados com base no número de iterações gerado em cada teste e foram separados por quantitadade de entradas para avaliar o tempo médio de execução de cada algoritmo ao longo de 10 iterações, sendo x para iterações. 
 #### <a name="#graph1"></a> Gráfico 1 - 1000 entradas.
 ![comparsion_alg1000](imgs/algorithms1000_comparison.png)
 #### <a name="#graph2"></a> Gráfico 2 - 10000 entradas.
@@ -60,23 +61,32 @@ A análise atual ocorreu nos dados presentes no momento da escrita dessa documen
 #### <a name="#graph4"></a> Gráfico 4 - 500000 entradas.
 ![comparsion_alg500000](imgs/algorithms500000_comparison.png)
 ### Tabelas
+As tabelas a seguir fazem relação ao tempo médio de cada algoritmo.
 #### <a name="#table1"></a> Tabela 1 - Tempo médio dos algoritmos em relação ao tamanho das entradas (Caso Ordenado).
 
 | Tamanho da Entrada | Algoritmo 1 | Algoritmo 2 | Algoritmo 3 |
 |--------------------|-------------|-------------|-------------|
-| 1000               | 0.0053501 ns| 0.0038226 ns| 0.00407 ns  |
+| 1000               | 0.0053501 ns| 0.0038226 ns| 0.0040700 ns|
 | 10000              | 0.0389838 ns| 0.0375332 ns| 0.0336906 ns|
-| 100000             | 0.382939 ns | 0.421086 ns | 0.332255 ns |
-| 500000             | 2.02462 ns  | 1.97786 ns  | 1.7052 ns   |
+| 100000             | 0.3829390 ns| 0.4210860 ns| 0.3322550 ns|
+| 500000             | 2.0246200 ns| 1.9778600 ns| 1.7052000 ns|
 
 #### <a name="#table2"></a> Tabela 2 - Tempo médio dos algoritmos em relação ao tamanho das entradas (Caso Desordenado).
 | Tamanho da Entrada | Algoritmo 1 | Algoritmo 2 | Algoritmo 3 |
 |--------------------|-------------|-------------|-------------|
-| 1000               | 0.0038919 ns| 0.003891 ns | 0.0048792 ns|
-| 10000              | 0.0374691 ns| 0.037573 ns | 0.0574034 ns|
-| 100000             | 0.3842250 ns| 0.378353 ns | 0.6463610 ns|
-| 500000             | 1.9365100 ns| 1.936150 ns | 3.0331800 ns|
-
+| 1000               | 0.0038919 ns| 0.0038910 ns| 0.0048792 ns|
+| 10000              | 0.0374691 ns| 0.0375730 ns| 0.0574034 ns|
+| 100000             | 0.3842250 ns| 0.3783530 ns| 0.6463610 ns|
+| 500000             | 1.9365100 ns| 1.9361500 ns| 3.0331800 ns|
+### Análise dos dados
+Para análisamor os dados é de grande imporatancia analisar o comportamento de cada algoritmo.
+#### <a name="#table3"></a> Tabela 3 - Notação assintótica de cada algoritmo.
+| Algoritmos  | Melhor caso | Pior caso | Caso médio  |
+|-------------|-------------|-----------|-------------|
+| Algoritmo 1 |    2(n-1)   |  2(n-1)   |   2(n-1)    |
+| Algoritmo 2 |    n-1      |  2(n-1)   |   3n/2 - 3/2|
+| Algoritmo 3 |    3n/2 - 2 |  3n/2 - 2 |   3n/2 - 2  |
+Como pode ser observado o algoritmo 3 supostamente era para apresentar um comportamento padrão idependente do caso. Mas além de instabilidades geradas pelo Sistema Operacional durante os testes, oque é muito provável pois ao analisar os gráficos pode-se observar a instabilidade também com os algoritmos 1 e 2, pode ser visto uma diferença do dobro entre os casos Ordenado e Desordenado. 
 
 
 ## <a name="#sobre"></a>Sobre

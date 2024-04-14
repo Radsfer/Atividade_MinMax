@@ -78,6 +78,7 @@ As tabelas a seguir fazem relação ao tempo médio de cada algoritmo.
 | 10000              | 0.0374691 ns| 0.0375730 ns| 0.0574034 ns|
 | 100000             | 0.3842250 ns| 0.3783530 ns| 0.6463610 ns|
 | 500000             | 1.9365100 ns| 1.9361500 ns| 3.0331800 ns|
+
 ### Análise dos dados
 Para análisamor os dados é de grande imporatancia analisar o comportamento de cada algoritmo.
 #### <a name="#table3"></a> Tabela 3 - Notação assintótica de cada algoritmo.
@@ -86,7 +87,16 @@ Para análisamor os dados é de grande imporatancia analisar o comportamento de 
 | Algoritmo 1 |    2(n-1)   |  2(n-1)   |   2(n-1)    |
 | Algoritmo 2 |    n-1      |  2(n-1)   |   3n/2 - 3/2|
 | Algoritmo 3 |    3n/2 - 2 |  3n/2 - 2 |   3n/2 - 2  |
-Como pode ser observado o algoritmo 3 supostamente era para apresentar um comportamento padrão idependente do caso. Mas além de instabilidades geradas pelo Sistema Operacional durante os testes, oque é muito provável pois ao analisar os gráficos pode-se observar a instabilidade também com os algoritmos 1 e 2, pode ser visto uma diferença do dobro entre os casos Ordenado e Desordenado. 
+
+Como pode ser observado o algoritmo 3 supostamente era para apresentar um comportamento padrão idependente do caso. Mas além de instabilidades geradas pelo Sistema Operacional durante os testes, oque provavelmente aconteceu durante os testes pois ao analisar os gráficos pode-se observar que a instabilidade também com os algoritmos 1 e 2, pode ser visto uma diferença do dobro entre os casos Ordenado e Desordenado e por ser um algoritmo de classe Θ(n) era para essa diferença ocorrer pela quantidade de entradas de forma linear e não pela sua ordenação. A suposição até o momento para explicar essa diferença fica no fato das complicações geradas pelo padrão de acesso a memória, talvez pela forma como o vetor gerado pela biblioteca  vector funciona pode haver algumas complicações a respeito do comportamento cache. Afinal ele é, dos três algoritmos, o único que avalia 2 posições de memória do vetor simultaneamente.
+Quanto ao algoritmo 2 pode-se observar que mesmo em seu caso desordenado ele acabou por cair no melhor caso possível, provavelmente o vetor gerado aleatóriamente apresentou um padrão próximo ao ideal da situação. E o algoritmo 1 apresentou um comportamento esperado.
+
+## Conclusão
+
+Apesar das notações assintóticas serem um bom parâmetro para a questão de eficiência de um algoritmo, como pode ser visto, a depender de como é feito o acesso a memória, o tempo de execução de um algoritmo pode variar muito. E diferentes processos acontecem simultâneamente dentro de um SO podem também afetar o tempo de execução de um algoritmo.
 
 
 ## <a name="#sobre"></a>Sobre
+Rafael Adolfo Silva Ferreira
+Formação: Engenharia Química (2017-2022) -UNIFOR-MG
+Cursando 3ºp. Engenharia da Computação - CEFET-MG campus Divinópolis

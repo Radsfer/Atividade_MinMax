@@ -51,8 +51,12 @@ make plotgraph
 ## Análise dos dados
 A análise atual ocorreu nos dados presentes no momento da escrita dessa documentação, caso faça nova execução do programa os dados podem alterar. Todos os análisados estão presentes no momento estão matidos no ultimo deploy feito para este repositório nas pastas dentro de datasets e na pasta imgs em relação aos gráficos.
 ### Gráficos
+#### <a name="#graph1"></a> Gráfico 1 - 1000 entradas.
 ![comparsion_alg1000](imgs/algorithms1000_comparison.png)
+#### <a name="#graph2"></a> Gráfico 2 - 10000 entradas.
 ![comparsion_alg10000](imgs/algorithms10000_comparison.png)
+#### <a name="#graph3"></a> Gráfico 3 - 100000 entradas.
 ![comparsion_alg100000](imgs/algorithms100000_comparison.png)
+#### <a name="#graph4"></a> Gráfico 4 - 500000 entradas.
 ![comparsion_alg500000](imgs/algorithms500000_comparison.png)
 ## <a name="#sobre"></a>Sobre

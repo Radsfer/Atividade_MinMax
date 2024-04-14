@@ -98,5 +98,9 @@ Apesar das notações assintóticas serem um bom parâmetro para a questão de e
 
 ## <a name="#sobre"></a>Sobre
 Rafael Adolfo Silva Ferreira
+
 Formação: Engenharia Química (2017-2022) -UNIFOR-MG
+
 Cursando 3ºp. Engenharia da Computação - CEFET-MG campus Divinópolis
+
+email: rafael.ferreira11.98@gmail.com
